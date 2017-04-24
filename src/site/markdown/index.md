@@ -48,7 +48,7 @@ To use Reflow skin in your Maven site, [add it to site.xml][reflow-usage]:
 <skin>
   <groupId>lt.velykis.maven.skins</groupId>
   <artifactId>reflow-maven-skin</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.1</version>
 </skin>
 ```
 
@@ -64,7 +64,7 @@ as well as Apache Velocity 1.7.
 ## Responsive layouts
 
 Write your pages in [APT or Markdown][doxia-formats], then restructure them using Reflow skin
-[layouts][reflow-layouts]: 
+[layouts][reflow-layouts]:
 
 -   **Carousel** - spinning image slideshow
 -   **Thumbnails** - showcase your image gallery
@@ -152,4 +152,4 @@ be glad to [accept a small donation][donate].
 [apache-license]: http://www.apache.org/licenses/LICENSE-2.0
 [contribute]: contribute.html
 [reflow-github]: http://github.com/andriusvelykis/reflow-maven-skin/
-[donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QWKNRFZH52828
+[donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=QWKNRFZH52828

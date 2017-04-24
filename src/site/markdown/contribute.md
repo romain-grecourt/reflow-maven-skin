@@ -45,7 +45,7 @@ If you _really really_ like the skin and want to support the author, I will be g
 [accept a small donation][donate].
 
 [av-site]: http://andrius.velykis.lt
-[donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QWKNRFZH52828
+[donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=QWKNRFZH52828
 
 
 ## Acknowledgements
@@ -56,8 +56,6 @@ These include icons from [Glyphicons][glyphicons] and web fonts from [Google][we
 JavaScript goodies with [jQuery][jquery].
 
 Image previews with [Lightbox2][lightbox2].
-
-Smooth scrolling with [jQuery Smooth Scroll][smooth-scroll] and [jQuery BBQ][bbq].
 
 Code highlighting with [highlight.js][highlight-js].
 
@@ -73,8 +71,6 @@ Inspired by [Maven Fluido Skin][fluido].
 [webfonts]: http://www.google.com/webfonts/
 [jquery]: http://jquery.org
 [lightbox2]: http://lokeshdhakar.com/projects/lightbox2
-[smooth-scroll]: http://github.com/kswedberg/jquery-smooth-scroll
-[bbq]: http://benalman.com/projects/jquery-bbq-plugin
 [highlight-js]: http://softwaremaniacs.org/soft/highlight/en/
 [jsoup]: http://jsoup.org/
 [medialoot]: http://medialoot.com/
